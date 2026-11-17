@@ -1,16 +1,23 @@
-## Hi there 👋
+## Ognen Djabirski
 
-<!--
-**Ogi404/Ogi404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build agentic AI workflows and tools that take over manual knowledge work. I design the process, the agent roles and the approval points, build with AI coding tools, and run the result in production.
 
-Here are some ideas to get you started:
+**Portfolio:** https://ogi404.github.io/portfolio/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I've built
+
+| Project | What it does | Status |
+|---|---|---|
+| Multi-agent publishing workflow | Research, editor, writer and SEO agents produce 7–10 articles a week. Hands-on time cut from 4+ hours to about 30 minutes per two articles. | In production |
+| Agent hub | Self-hosted server coordinating agents through Slack and Linear, with input validation, task-integrity checks and rollback for failed schedule changes. | In production |
+| Editorial QA tool | Checks articles against SEO briefs, grammar, readability and internal contradictions. | In use |
+| Affiliate compliance scanner | Scans gambling affiliate pages for compliance problems. | Pilot-ready |
+| MiseMind | Retrieval-based culinary knowledge assistant. | Personal app |
+| Coaching app | Game library, session timers, notes and daily planning. | 5 daily users |
+| [Coaching clipboard](https://github.com/Ogi404/CLA-Clipboard) | Offline tablet tool for recording structured observations during training. | Public source |
+
+Most of this code is private because it runs live systems or contains client material. I'm happy to walk through any of it on a call.
+
+### Contact
+
+odzabirski@hotmail.com · [LinkedIn](https://www.linkedin.com/in/ognen-djabirski)
